@@ -1,0 +1,14 @@
+format_version: v1.0
+configName: default
+folderName: VCU0_to_INVERTER
+frameworkPath: C:\Users\pedro\OneDrive - IPLeiria\Documents\Microchip harmony
+processor: PIC32MK1024MCM064
+projectName: VCU0_to_INVERTER
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: dev_packs\Microchip\PIC32MK-MC_DFP\1.11.151\atdf\PIC32MK1024MCM064.atdf
